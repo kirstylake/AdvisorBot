@@ -1,0 +1,9 @@
+# ninja log v5
+8	402	6807019779112510	build.ninja	8b80af27bf86b3ff
+14	628	6779760690602335	CMakeFiles/AdvisorBot_Midterm.dir/main.cpp.obj	fd260b658930ff3e
+1623	2074	6780033472624435	AdvisorBot_Midterm.exe	27bfcbabb93346a8
+46	1579	6780033467703569	CMakeFiles/AdvisorBot_Midterm.dir/MerkelMain.cpp.obj	778aeb2104c32507
+22	417	6779496387950787	CMakeFiles/AdvisorBot_Midterm.dir/OrderBookEntry.cpp.obj	a1e8f3cc6dbc9235
+2	735	6779496391241526	CMakeFiles/AdvisorBot_Midterm.dir/CSVReader.cpp.obj	6f7ce37cc2609e06
+3	551	6779503397626824	CMakeFiles/AdvisorBot_Midterm.dir/Wallet.cpp.obj	f1d29d080de1d614
+2	1623	6780033468143657	CMakeFiles/AdvisorBot_Midterm.dir/OrderBook.cpp.obj	2b11101be909d3b2

@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "AdvisorBot_Midterm",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "AdvisorBot_Midterm::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AdvisorBot_Midterm-Debug-c967c79d83a4cac35ca8.json",
+					"name" : "AdvisorBot_Midterm",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/AERO Technology/Computer Science/Year 2/Object Orientated Programming/Week 10 -midterm/AdvisorBot-Midterm/cmake-build-debug",
+		"source" : "D:/AERO Technology/Computer Science/Year 2/Object Orientated Programming/Week 10 -midterm/AdvisorBot-Midterm"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
